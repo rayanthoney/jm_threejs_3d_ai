@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
-import { snapshot, useSnapshot } from 'valtio';
+import { useSnapshot } from 'valtio';
 
 import config from '../config/config';
 import state from '../store';
@@ -15,7 +15,7 @@ const Customizer = () => {
 
   return (
     <AnimatePresence>
-      {!snapshot.intro && (
+      {!snap.intro && (
         <>
           <motion.div
             key='custom'
