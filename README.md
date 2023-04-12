@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 
-# 🛠️ My Awesome
+# 🛠️ Three.JS 3D AI Web Design
 
 <!-- ![alt tag](https://picsum.photos/600/300) -->
 
@@ -8,7 +8,7 @@
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="https://picsum.photos/600/300" alt="" height="100%"/>
+        <img src="./client/src/assets/threejs3d.png" alt="" height="100%"/>
     </a>
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
