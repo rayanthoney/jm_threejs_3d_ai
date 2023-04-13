@@ -33,23 +33,9 @@ Write a short sentence or two about this project and what it does. Be sure to in
 <br>
 <br>
 
-## How It's Made:
-
-> > - [JS Mastery ](https://youtu.be/ZqEa8fTxypQ)
-> > - [FREE Ultimate ThreeJS Cheatsheet:](https://resource.jsmastery.pro/threejs-cheatsheet)
-> > - [⭐Hostinger (2.99 month w/2months free):](https://www.hostinger.com/recommended/javascript-mastery?utm_medium=affiliate&utm_source=aff72940&utm_campaign=476&session=102f35345e5d2ed8517b64f609349e)
-> > - [GitHub Code (give it a star ⭐)](https://github.com/adrianhajdin/project_threejs_ai)
-> > - [GitHub Gist Code Snippets](https://gist.github.com/adrianhajdin/597252d9d77fa65e30f596d99b03cc11)
-> > - [Assets, Components, Public folders](https://drive.google.com/drive/folders/166wA5NsMV_5D8NN7ujDDbPXC1X65vf2I)
+## How It's Made:<br>
 
 <br>
-<br>
-
-> [@AndersonMancini ](https://www.youtube.com/channel/UCEZqgdPDnbpX9Ihbw_k4VUA)
->
-> > ThreeJS Creator
->
-> - [💡 Blender 3D model course on Udemy](https://www.udemy.com/course/react-three-fiber-configurator/)
 
 ## Scaffolding Your First Vite Project with React
 
@@ -98,17 +84,35 @@ export default {
   plugins: [],
 }
 ```
+
 <br>
 <br>
 
 ## Add the Tailwind directives to your CSS
->  Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
+
+> Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
 
 ```terminal
 >  @tailwind base;
 >  @tailwind components;
 >  @tailwind utilities;
 ```
+
+<br>
+<br>
+
+- [JS Mastery ](https://youtu.be/ZqEa8fTxypQ)
+- [FREE Ultimate ThreeJS Cheatsheet:](https://resource.jsmastery.pro/threejs-cheatsheet)
+- [⭐Hostinger (2.99 month w/2months free):](https://www.hostinger.com/recommended/javascript-mastery?utm_medium=affiliate&utm_source=aff72940&utm_campaign=476&session=102f35345e5d2ed8517b64f609349e)
+- [GitHub Code (give it a star ⭐)](https://github.com/adrianhajdin/project_threejs_ai)
+- [GitHub Gist Code Snippets](https://gist.github.com/adrianhajdin/597252d9d77fa65e30f596d99b03cc11)
+- [Assets, Components, Public folders](https://drive.google.com/drive/folders/166wA5NsMV_5D8NN7ujDDbPXC1X65vf2I)
+
+> [@AndersonMancini ](https://www.youtube.com/channel/UCEZqgdPDnbpX9Ihbw_k4VUA)
+>
+> ThreeJS Creator
+>
+> - [💡 Blender 3D model course on Udemy](https://www.udemy.com/course/react-three-fiber-configurator/)
 
 <br>
 <br>
