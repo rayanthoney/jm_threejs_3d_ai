@@ -14,7 +14,7 @@ const CameraRig = ({ children }) => {
     const isMobile = window.innerWidth <= 600;
 
     // Set the Initial Position of the Model
-    let targetPosition = [-0.4, 0, 2,];
+    let targetPosition = [-0.4, 0, 2];
     if (snap.intro) {
       if(isBreakpoint) targetPosition = [0, 0, 2];
       if(isMobile) targetPosition = [0, 0.2, 2.5];
@@ -35,10 +35,8 @@ const CameraRig = ({ children }) => {
   )
 })
 
-  
-
   return <group ref={group}>{children}</group>
-  
+
 }
 
 export default CameraRig
