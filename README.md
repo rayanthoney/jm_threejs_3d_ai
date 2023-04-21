@@ -8,7 +8,7 @@
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="./client/src/assets/threejs3d.png" alt="Project Image" height="100%"/>
+        <img src="./client/src/assets/tshirt1.gif" alt="Project Image" width="100%"/>
     </a>
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
@@ -24,6 +24,22 @@
     </a>
   </p>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+    <img  src="client/src/assets/jsMastery.png" width="64">
+</div>
+
+<br>
+
+- [Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners](https://youtu.be/ZqEa8fTxypQ)
+  - [GitHub Code (give it a star ⭐):](https://github.com/adrianhajdin/project_threejs_ai)
+  - [Assets, Components, Public folders:](https://drive.google.com/drive/folders/166wA5NsMV_5D8NN7ujDDbPXC1X65vf2I)
+  - [GitHub Gist Code:](https://gist.github.com/adrianhajdin/597252d9d77fa65e30f596d99b03cc11)
+
+<br>
 
 ## 3D ThreeJS AI Showcase
 
