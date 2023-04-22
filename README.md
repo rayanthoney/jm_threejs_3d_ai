@@ -8,7 +8,7 @@
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="./client/src/assets/tshirt1.gif" alt="Project Image" width="100%"/>
+        <img src="./client/src/assets/tshirt1.gif" alt="Project Image" height="100%"/>
     </a>
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
@@ -40,8 +40,25 @@
   - [GitHub Gist Code:](https://gist.github.com/adrianhajdin/597252d9d77fa65e30f596d99b03cc11)
 
 <br>
+<br>
 
-## 3D ThreeJS AI Showcase
+## Technologies Used:
+
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,threejs,tailwind" />
+  </a>
+</p>
+
+<br>
+
+## How It's Made:
+
+### 3D ThreeJS AI Showcase
 
 This is a web application that demonstrates how corporations can use 3D graphics to showcase their products. It uses ThreeJS, React Three Fiber, TailwindCSS and Framer Motion to create a seamless and engaging user experience.
 
@@ -53,14 +70,10 @@ This is a web application that demonstrates how corporations can use 3D graphics
 <br>
 <br>
 
-## How It's Made:<br>
-
-<br>
-
 ## Scaffolding Your First Vite Project with React
 
 ```terminal
- > npm create vite@latest -- --template react client
+ > npm create vite@latest ./ -- --template react client
  > cd my-project (client)
 ```
 
@@ -118,29 +131,6 @@ export default {
 >  @tailwind utilities;
 ```
 
-<br>
-<br>
-
-## Technologies Used:
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,threejs," />
-  </a>
-</p>
-
-<br>
-
-<!-- [![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=plastic&for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;
-[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=plastic&for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=plastic&for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp; -->
-
-<br>
-
 ## Optimizations
 
 _(optional)_
@@ -149,7 +139,7 @@ _(optional)_
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those _whoa this is awesome_ or _fuck yeah I did it!_ moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
 
-- [JS Mastery ](https://youtu.be/ZqEa8fTxypQ)
+<!-- - [JS Mastery ](https://youtu.be/ZqEa8fTxypQ)
 - [FREE Ultimate ThreeJS Cheatsheet:](https://resource.jsmastery.pro/threejs-cheatsheet)
 - [⭐Hostinger (2.99 month w/2months free):](https://www.hostinger.com/recommended/javascript-mastery?utm_medium=affiliate&utm_source=aff72940&utm_campaign=476&session=102f35345e5d2ed8517b64f609349e)
 - [GitHub Code (give it a star ⭐)](https://github.com/adrianhajdin/project_threejs_ai)
@@ -160,7 +150,7 @@ No matter what your experience level, being an engineer means continuously learn
 >
 > ThreeJS Creator
 >
-> - [💡 Blender 3D model course on Udemy](https://www.udemy.com/course/react-three-fiber-configurator/)
+> - [💡 Blender 3D model course on Udemy](https://www.udemy.com/course/react-three-fiber-configurator/) -->
 
 ## Examples:
 
