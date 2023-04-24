@@ -8,7 +8,7 @@
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="./client/src/assets/tshirt1.gif" alt="Project Image" height="100%"/>
+        <img src="./client/src/assets/threeJS3DAI.gif" alt="Project Image" height="100%"/>
     </a>
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
